@@ -12,3 +12,6 @@ Included Lessons
 - [Introduction](../sessions/introduction.md)
 - [The Web in Depth](../sessions/web_in_depth.md)
 - [Writing Good Reports](../sessions/good_reports.md)
+
+
+special thanks of Krishna Kant Mahour
